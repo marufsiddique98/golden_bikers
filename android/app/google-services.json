@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546592791878",
+    "project_id": "goldenbikers-8a1fe",
+    "storage_bucket": "goldenbikers-8a1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546592791878:android:f0542242a4c9a3338f1947",
+        "android_client_info": {
+          "package_name": "com.goldenbikers.user2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546592791878-sum1jta8akumnapnru4c8elp2pchsk1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goldenbikers.user2",
+            "certificate_hash": "b0a0f854dcf13d896cf223254ec2d10c3a42e8f5"
+          }
+        },
+        {
+          "client_id": "546592791878-l9c5pa78dmsue90j1hsabdnjgo5r1vl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZ4RZ8uv--6mEsdCKRhTX02WoVSUo-EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546592791878-l9c5pa78dmsue90j1hsabdnjgo5r1vl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
